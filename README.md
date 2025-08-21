@@ -1,2 +1,1 @@
-# Komla-Balto-ai-demo-suite
-AI Demo
+Run with: `streamlit run streamlit_app.py`
