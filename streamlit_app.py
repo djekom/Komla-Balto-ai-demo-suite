@@ -3,7 +3,7 @@ import pandas as pd
 import re, random
 
 st.set_page_config(page_title="Komla Project - Balto AI Demo Suite", page_icon="🛡️", layout="wide")
-st.title("Balto AI Demo Suite")
+st.title("Komla Project - Balto AI Demo Suite")
 st.caption("Compliance Co-Pilot + Passion Project — Streamlit (no secrets, no external APIs)")
 
 # -----------------------------
